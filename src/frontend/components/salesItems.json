@@ -1,0 +1,197 @@
+[
+    {
+        "title": "John Boos Butcher block",
+        "price": 350,
+        "available": true,
+        "description": "A beautifully worn maple butcher block that has spent most of its life as a side-table and not working in the kitchen.  Regularly oiled and waxed, she's a beauty.  18\" x 18\" x 10\"",
+        "type": "furniture",
+        "images": [
+            "./images/butcher1.jpg", 
+            "./images/butcher2.jpg", 
+            "./images/butcher3.jpg",
+            "./images/butcher4.jpg",
+            "./images/butcher5.jpg",
+            "./images/butcher6.jpg"
+        ]
+    },
+    {
+        "title": "Teak Coffee Table by Lane",
+        "price": 350,
+        "available": true,
+        "description": "A gorgeous vintage Mid-Century Modern teak coffee table with brass accents made by one of the leading furniture makers of the MCM era.",
+        "type": "furniture",
+        "images": [
+            "./images/table1.jpg",
+            "./images/table2.jpg",
+            "./images/table3.jpg",
+            "./images/table4.jpg",
+            "./images/table5.jpg"
+        ]
+    },
+    {
+        "title": "Walnut and Ivory Vinyl Loveseat",
+        "price": 250,
+        "available": true,
+        "description": "Walnut and Ivory Vinyl MCM loveseat. Dimensions are 46.5\" wide x 27\" deep x 30\" tall. Great for a small apartment.",
+        "type": "furniture",
+        "images": [
+            "./images/sofa1.jpg",
+            "./images/sofa2.jpg",
+            "./images/sofa3.jpg"
+        ]
+    },
+    {
+        "title": "Modern Wood & Metal Bookcase",
+        "price": 150,
+        "available": true,
+        "description": "Great looking light wood(maple?) and metal framed bookcase.",
+        "type": "furniture",
+        "images": [
+            "./images/bookcase1.jpg",
+            "./images/bookcase2.jpg",
+            "./images/bookcase3.jpg",
+            "./images/bookcase4.jpg"
+        ]
+    },
+    {
+        "title": "Mid-Century-Modern vintage dresser set with 2 side tables by Vaughan of Virginia",
+        "price": 350,
+        "available": true,
+        "description": "Beautiful dresser, all wood, in decent shape.  One end table needs the top refinished.",
+        "type": "furniture",
+        "images": [
+            "./images/dresser1.jpg",
+            "./images/dresser2.jpg",
+            "./images/dresser3.jpg",
+            "./images/dresser4.jpg",
+            "./images/dresser5.jpg",
+            "./images/dresser6.jpg",
+            "./images/dresser7.jpg",
+            "./images/dresser8.jpg",
+            "./images/dresser9.jpg",
+            "./images/dresser10.jpg",
+            "./images/dresser11.jpg",
+            "./images/dresser12.jpg",
+            "./images/dresser13.jpg",
+            "./images/dresser14.jpg",
+            "./images/dresser15.jpg",
+            "./images/dresser16.jpg",
+            "./images/dresser18.jpg",
+            "./images/dresser19.jpg"
+        ]
+    },
+    {
+        "title": "MCM inspired Wooden Desk from West Elm",
+        "price": 350,
+        "available": true,
+        "description": "A really gorgeous MCM inspired desk, tapered legs, file storage purchased new only 1 year ago.",
+        "type": "furniture",
+        "images": [
+            "./images/desk1.jpg",
+            "./images/desk2.jpg",
+            "./images/desk3.jpg",
+            "./images/desk4.jpg",
+            "./images/desk5.jpg",
+            "./images/desk6.jpg"
+        ]
+    },
+    {
+        "title": "Mango wood and Steel standing Desk with stools(West Elm)",
+        "price": 250,
+        "available": true,
+        "description": "Modern and industrial inspired standing desk / high-table with 4 industrial stools.  42\" high",
+        "type": "furniture",
+        "images": [
+            "./images/stand1.jpg",
+            "./images/stand2.jpg",
+            "./images/stand3.jpg",
+            "./images/stand4.jpg",
+            "./images/stand5.jpg",
+            "./images/stand6.jpg"
+        
+        ]
+    },
+    {
+        "title": "Brass & Glass console table",
+        "price": 175,
+        "available": true,
+        "description": "Beautiful glass and brass console table.  Really fits well with a MCM design.  Perfect for use as a TV stand. (West Elm)",
+        "type": "furniture",
+        "images": [
+            "./images/console1.jpg",
+            "./images/console2.jpg",
+            "./images/console3.jpg",
+            "./images/console4.jpg",
+            "./images/console5.jpg"
+        ]
+    },
+    {
+        "title": "Vintage Mosaic Tile / Wood / Laminate coffee table",
+        "price": 150,
+        "available": true,
+        "description": "This is a one of a kind vintage piece.  tile and laminate top.  Tapered wooden legs.",
+        "type": "furniture",
+        "images": [
+            "./images/coffee1.jpg",
+            "./images/coffee2.jpg",
+            "./images/coffee3.jpg",
+            "./images/coffee4.jpg",
+            "./images/coffee6.jpg",
+            "./images/coffee7.jpg"
+        ]
+    },
+    {
+        "title": "Queen Size Memory foam mattress (LUCID) and steel platform bed.",
+        "price": 250,
+        "available": false,
+        "description": "LUCID memory foam queen sized mattress (1.5 year old) and steel platform bed.",
+        "type": "furniture",
+        "images": [
+            "./images/bed1.jpg",
+            "./images/bed2.jpg",
+            "./images/bed3.jpg"
+           
+        ]
+    },
+    {
+        "title": "32\" HP Pavillion QHD wide-viewing angle display",
+        "price": 200,
+        "available": true,
+        "description": "Like new 32\" QHD monitor, black - Only used a handfull of times.  Purchased 6 months ago for $350.",
+        "type": "electronics",
+        "images": [
+            "./images/monitor1.jpg",
+            "./images/monitor2.jpg",
+            "./images/monitor3.jpg",
+            "./images/monitor4.jpg",
+            "./images/monitor6.jpg"
+            
+
+        ]
+    },
+    {
+        "title": "Friedrich 10,000 BTU Wall Unit A/C",
+        "price": 250,
+        "available": true,
+        "description": "Used Friedrich AC unit.  Works GREAT, owned for 2 seasons now.  Retails for $550.",
+        "type": "electronics",
+        "images": [
+            "./images/ac1.jpeg"
+            
+        ]
+    },
+    {
+        "title": "Eden Pure Gen2 5000BTU Infrared Heater",
+        "price": 175,
+        "available": true,
+        "description": "Amazing little infrared heater by Eden Pure.  So effective without generating heat to the touch.",
+        "type": "electronics",
+        "images": [
+            "./images/heater1.jpg",
+            "./images/heater2.jpg",
+            "./images/heater3.jpg",
+            "./images/heater4.jpg",
+            "./images/heater5.jpg"
+        ]
+    }
+]
